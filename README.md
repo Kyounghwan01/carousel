@@ -4,8 +4,6 @@
 [![Video Label](http://img.youtube.com/vi/ThN5fS0bxhI/0.jpg)](https://www.youtube.com/embed/ThN5fS0bxhI) 
 
 
-https://img.youtube.com/vi/ThN5fS0bxhI/0.jpg
-
 
  https://kyounghwan01.github.io/carousel/.
 
