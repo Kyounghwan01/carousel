@@ -4,9 +4,6 @@
 [![Video Label](http://img.youtube.com/vi/ThN5fS0bxhI/0.jpg)](https://www.youtube.com/embed/ThN5fS0bxhI) 
 
 
-
- https://kyounghwan01.github.io/carousel/.
-
 **[Bootcamp Prep Wiki Page](https://gitlab.com/vanilla-coding/prep/wikis/home)를 아직 읽지 않으셨다면, 반드시 꼼꼼히 읽고 시작하세요.**
 
 Carousel UI를 만드는 과제입니다. 이번 과제를 통해 기본적인 HTML/CSS/Javascript, 그리고 DOM을 조작하는 연습을 하는 것이 목표입니다.
